@@ -14,16 +14,16 @@ To run this project locally, follow these simple steps:
    ```bash
    git clone https://github.com/your-username/global-warming-visualization.git
 
-2. Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 
    ```bash
    cd visualization-main
 
-3. Run a Python Server:
+3. **Run a Python Server:**
    If you have Python installed, you can use the following command to start a simple HTTP server:
       ```bash
       python -m http.server
 
-4. Open in Browser:
+4. **Open in Browser:**
    Once the server is running, open your web browser and go to http://localhost:8000. You should see the main page of the project.
 
